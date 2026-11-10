@@ -24,7 +24,6 @@ and factors associated with employee turnover.
 - Employees Left: 237
 - Attrition Rate: 16.12%
 - Active Employees: 1,233
-- Average of Age: 36.92
 
 ## Dashboard Preview
 ![HR Employee Attrition Dashboard](hr-attrition-dashboard.png.png)
